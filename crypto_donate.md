@@ -1,10 +1,5 @@
 # 💸 Support My Work with Crypto
 
-If you'd like to support my projects, you can donate using any of the cryptocurrencies below.  
-Thank you! 🙏
-
----
-
 ### 🟠 Bitcoin (BTC)
 
 `bc1q0xznyedpldeepk0gww6tj4zcyj293cshqmhp80`
