@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Adam
 I'm a web developer focused on building modern web applications using HTML, CSS, and Python.
 
----
 
 ## ⚙️ Tools & Technologies
 
@@ -13,13 +12,11 @@ I'm a web developer focused on building modern web applications using HTML, CSS,
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
----
 
 ## 💬 Contact
 
 - 📧 Email: hello@adamskri.eu *(replace with your real email)*  
 
----
 
 ## ☕ Support my work
 
