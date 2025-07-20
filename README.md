@@ -15,7 +15,7 @@ I'm a web developer focused on building modern web applications using HTML, CSS,
 
 ## 💬 Contact
 
-- 📧 Email: hello@adamskri.eu *(replace with your real email)*  
+- 📧 Email: hello@adamskri.eu
 
 
 ## ☕ Support my work
